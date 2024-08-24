@@ -16,3 +16,8 @@ body {
   font-family: "Quicksand", sans-serif;;
   background-color: rgba(241, 231, 219, 0.25);
 }
+
+#root {
+  display: flex;
+  flex-direction: column;
+}

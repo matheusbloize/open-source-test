@@ -14,7 +14,7 @@ header h1 {
   font-size: 2em;
 }
 
-@media screen and (width < 768px) {
+@media screen and (width < 48em) {
   header h1 {
     font-size: 4vw;
   }
